@@ -131,7 +131,7 @@ function randSpecial() {
 }
 
 // Add event listener to generate button
-generateBtn.addEventListener("click", writePassword);
+generateBtn.addEventListener("click", writePassword());
 
 //starting the password generator
 writePassword();
