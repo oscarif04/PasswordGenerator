@@ -1,9 +1,7 @@
 
   # Password Generator
 
-  renderLicenseBadge()
-  renderLicenseLink()
-  renderLicenseSection()
+  
 
   ## Description
 
